@@ -1,0 +1,8 @@
+# mastering-git-web
+
+This is the main website for the Mastering Git book, from 
+raywenderlick.com
+
+contact: @crispytwit
+
+
